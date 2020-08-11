@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/andres050588/nice_site#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
     "normalize.css": "^8.0.1"
   }
 }
